@@ -1,0 +1,1 @@
+g++ -g -Wall -Wextra Curve.cpp LevelCalc.cpp main.cpp
