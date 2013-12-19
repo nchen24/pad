@@ -7,7 +7,7 @@ LevelCalc::LevelCalc(){
         curves[i].setCurve((curve_t)i);
 }
 exp LevelCalc::toNext(curve_t curve, lv curLv){
-    return curves[curve].expForLevel(curLv-1);
+    return curves[curve].expForLevel(curLv-1); // -1 to account for 0-index
 }
 
 exp LevelCalc::toNext(curve_t curve, lv curLv, exp curExp){
