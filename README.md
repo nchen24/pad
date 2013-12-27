@@ -18,3 +18,5 @@ Make a front end GUI and/or web applet for this program
 
 ===
 Possibly useable data: http://pastebin.com/s4vDCJ2g
+https://docs.google.com/spreadsheet/ccc?key=0Ah1NjACTDodGdHo2V0lQUHQ1SDZ5QWRnU1hzYVBLaFE#gid=0
+http://puzzleanddragonsforum.com/archive/index.php/thread-7789.html
